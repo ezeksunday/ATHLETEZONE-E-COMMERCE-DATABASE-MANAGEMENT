@@ -7,4 +7,7 @@ It covers fundamental SQL commands: CREATE TABLE, INSERT, UPDATE, and DELETE, de
 The project is divided into three main lessons, each focusing on a specific SQL operation:  
 1. INSERT STATEMENT: Setting up database schema and populating initial data.  
 2. UPDATE STATEMENT: Modifying existing records to reflect changes.  
-3. DELETE STATEMENT: Removing records from the database.  
+3. DELETE STATEMENT: Removing records from the database.
+
+
+
