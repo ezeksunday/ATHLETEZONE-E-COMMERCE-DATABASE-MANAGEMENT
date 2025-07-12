@@ -10,6 +10,7 @@ The project is divided into three main lessons, each focusing on a specific SQL 
 3. DELETE STATEMENT: Removing records from the database.
 
 <img width="262" height="59" alt="Image" src="https://github.com/user-attachments/assets/97fe7e4d-0d82-431c-9e7b-91d4831b2e3b" />  
+
 <img width="376" height="162" alt="Image" src="https://github.com/user-attachments/assets/4c538531-bfe9-43bb-bebd-1bfda8f3f3ac" />
 
 
