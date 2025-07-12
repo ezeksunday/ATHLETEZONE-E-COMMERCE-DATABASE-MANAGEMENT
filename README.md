@@ -9,5 +9,7 @@ The project is divided into three main lessons, each focusing on a specific SQL 
 2. UPDATE STATEMENT: Modifying existing records to reflect changes.  
 3. DELETE STATEMENT: Removing records from the database.
 
+<img width="262" height="59" alt="Image" src="https://github.com/user-attachments/assets/97fe7e4d-0d82-431c-9e7b-91d4831b2e3b" />
+
 
 
